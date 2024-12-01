@@ -1,0 +1,7 @@
+# C implementations
+# Ignore all files inside of c directories
+/*/c/*
+
+# Except the Makefile and main.c
+!*/c/main.c
+!*/c/Makefile
