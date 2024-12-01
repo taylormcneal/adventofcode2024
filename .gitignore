@@ -5,3 +5,6 @@
 # Except the Makefile and main.c
 !*/c/main.c
 !*/c/Makefile
+
+# Rust implementations
+/*/rust/target/
